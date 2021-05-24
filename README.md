@@ -11,3 +11,5 @@
 [Constants](https://github.com/annamuratov1987/gobyexample/blob/main/constants.go)
 
 [For](https://github.com/annamuratov1987/gobyexample/blob/main/for.go)
+
+[If/Else](https://github.com/annamuratov1987/gobyexample/blob/main/if_else.go)
