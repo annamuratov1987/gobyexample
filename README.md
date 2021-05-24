@@ -9,3 +9,5 @@
 [Type casting](https://github.com/annamuratov1987/gobyexample/blob/main/type_casting.go)
 
 [Constants](https://github.com/annamuratov1987/gobyexample/blob/main/constants.go)
+
+[For](https://github.com/annamuratov1987/gobyexample/blob/main/for.go)
