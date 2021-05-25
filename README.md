@@ -15,3 +15,5 @@
 [If/Else](https://github.com/annamuratov1987/gobyexample/blob/main/if_else.go)
 
 [Switch](https://github.com/annamuratov1987/gobyexample/blob/main/switch.go)
+
+[Arrays](https://github.com/annamuratov1987/gobyexample/blob/main/arrays.go)
