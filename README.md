@@ -25,3 +25,5 @@
 [Range](https://github.com/annamuratov1987/gobyexample/blob/main/range.go)
 
 [Functions](https://github.com/annamuratov1987/gobyexample/blob/main/functions.go)
+
+[Variadic Functions](https://github.com/annamuratov1987/gobyexample/blob/main/variadic_functions.go)
