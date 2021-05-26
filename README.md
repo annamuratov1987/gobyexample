@@ -29,3 +29,5 @@
 [Variadic Functions](https://github.com/annamuratov1987/gobyexample/blob/main/variadic_functions.go)
 
 [Closures](https://github.com/annamuratov1987/gobyexample/blob/main/closures.go)
+
+[Recursion](https://github.com/annamuratov1987/gobyexample/blob/main/recursion.go)
