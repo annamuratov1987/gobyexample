@@ -19,3 +19,5 @@
 [Arrays](https://github.com/annamuratov1987/gobyexample/blob/main/arrays.go)
 
 [Slices](https://github.com/annamuratov1987/gobyexample/blob/main/slices.go)
+
+[Maps](https://github.com/annamuratov1987/gobyexample/blob/main/maps.go)
