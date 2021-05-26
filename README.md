@@ -23,3 +23,5 @@
 [Maps](https://github.com/annamuratov1987/gobyexample/blob/main/maps.go)
 
 [Range](https://github.com/annamuratov1987/gobyexample/blob/main/range.go)
+
+[Functions](https://github.com/annamuratov1987/gobyexample/blob/main/functions.go)
