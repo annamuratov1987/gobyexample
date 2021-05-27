@@ -33,3 +33,5 @@
 [Recursion](https://github.com/annamuratov1987/gobyexample/blob/main/recursion.go)
 
 [Pointers](https://github.com/annamuratov1987/gobyexample/blob/main/pointers.go)
+
+[Structs](https://github.com/annamuratov1987/gobyexample/blob/main/structs.go)
