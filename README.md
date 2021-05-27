@@ -31,3 +31,5 @@
 [Closures](https://github.com/annamuratov1987/gobyexample/blob/main/closures.go)
 
 [Recursion](https://github.com/annamuratov1987/gobyexample/blob/main/recursion.go)
+
+[Pointers](https://github.com/annamuratov1987/gobyexample/blob/main/pointers.go)
