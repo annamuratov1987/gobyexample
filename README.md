@@ -35,3 +35,5 @@
 [Pointers](https://github.com/annamuratov1987/gobyexample/blob/main/pointers.go)
 
 [Structs](https://github.com/annamuratov1987/gobyexample/blob/main/structs.go)
+
+[Methods](https://github.com/annamuratov1987/gobyexample/blob/main/methods.go)
