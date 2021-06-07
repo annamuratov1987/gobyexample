@@ -41,3 +41,5 @@
 [Interfaces](https://github.com/annamuratov1987/gobyexample/blob/main/interfaces.go)
 
 [Errors](https://github.com/annamuratov1987/gobyexample/blob/main/errors.go)
+
+[Goroutines](https://github.com/annamuratov1987/gobyexample/blob/main/goroutines.go)
