@@ -39,3 +39,5 @@
 [Methods](https://github.com/annamuratov1987/gobyexample/blob/main/methods.go)
 
 [Interfaces](https://github.com/annamuratov1987/gobyexample/blob/main/interfaces.go)
+
+[Errors](https://github.com/annamuratov1987/gobyexample/blob/main/errors.go)
