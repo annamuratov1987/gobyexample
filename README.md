@@ -51,3 +51,5 @@
 [Channel Synchronization](https://github.com/annamuratov1987/gobyexample/blob/main/channel_synchronization.go)
 
 [Channel Directions](https://github.com/annamuratov1987/gobyexample/blob/main/channel_directions.go)
+
+[Select](https://github.com/annamuratov1987/gobyexample/blob/main/select.go)
