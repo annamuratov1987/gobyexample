@@ -63,3 +63,5 @@
 [Range over Channels](https://github.com/annamuratov1987/gobyexample/blob/main/range_over_channels.go)
 
 [Timers](https://github.com/annamuratov1987/gobyexample/blob/main/timers.go)
+
+[Tickers](https://github.com/annamuratov1987/gobyexample/blob/main/tickers.go)
