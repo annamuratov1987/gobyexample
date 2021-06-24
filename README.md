@@ -43,3 +43,5 @@
 [Errors](https://github.com/annamuratov1987/gobyexample/blob/main/errors.go)
 
 [Goroutines](https://github.com/annamuratov1987/gobyexample/blob/main/goroutines.go)
+
+[Channels](https://github.com/annamuratov1987/gobyexample/blob/main/channels.go)
