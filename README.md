@@ -55,3 +55,5 @@
 [Select](https://github.com/annamuratov1987/gobyexample/blob/main/select.go)
 
 [Timeouts](https://github.com/annamuratov1987/gobyexample/blob/main/timeouts.go)
+
+[Non-Blocking Channel Operations](https://github.com/annamuratov1987/gobyexample/blob/main/non_blocking_channel_operations.go)
