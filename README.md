@@ -47,3 +47,5 @@
 [Channels](https://github.com/annamuratov1987/gobyexample/blob/main/channels.go)
 
 [Channel Buffering](https://github.com/annamuratov1987/gobyexample/blob/main/channel_buffering.go)
+
+[Channel Synchronization](https://github.com/annamuratov1987/gobyexample/blob/main/channel_synchronization.go)
