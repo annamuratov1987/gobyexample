@@ -67,3 +67,6 @@
 [Tickers](https://github.com/annamuratov1987/gobyexample/blob/main/tickers.go)
 
 [Worker Pools](https://github.com/annamuratov1987/gobyexample/blob/main/worker_pools.go)
+
+[WaitGroups](https://github.com/annamuratov1987/gobyexample/blob/main/wait_groups.go)
+
