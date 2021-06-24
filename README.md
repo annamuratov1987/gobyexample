@@ -65,3 +65,5 @@
 [Timers](https://github.com/annamuratov1987/gobyexample/blob/main/timers.go)
 
 [Tickers](https://github.com/annamuratov1987/gobyexample/blob/main/tickers.go)
+
+[Worker Pools](https://github.com/annamuratov1987/gobyexample/blob/main/worker_pools.go)
