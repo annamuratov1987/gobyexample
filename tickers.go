@@ -25,3 +25,10 @@ func main() {
 	done <- true
 	fmt.Println("Ticker stopped")
 }
+
+/*Result:
+Tick at 2021-06-24 16:07:45.994288451 +0500 PKT m=+0.500884789
+Tick at 2021-06-24 16:07:46.493896247 +0500 PKT m=+1.000492582
+Tick at 2021-06-24 16:07:46.993676663 +0500 PKT m=+1.500273025
+Ticker stopped
+*/
