@@ -61,3 +61,5 @@
 [Closing Channels](https://github.com/annamuratov1987/gobyexample/blob/main/closing_channels.go)
 
 [Range over Channels](https://github.com/annamuratov1987/gobyexample/blob/main/range_over_channels.go)
+
+[Timers](https://github.com/annamuratov1987/gobyexample/blob/main/timers.go)
