@@ -53,3 +53,5 @@
 [Channel Directions](https://github.com/annamuratov1987/gobyexample/blob/main/channel_directions.go)
 
 [Select](https://github.com/annamuratov1987/gobyexample/blob/main/select.go)
+
+[Timeouts](https://github.com/annamuratov1987/gobyexample/blob/main/timeouts.go)
