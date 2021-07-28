@@ -76,3 +76,4 @@
 
 [Mutexes](https://github.com/annamuratov1987/gobyexample/blob/main/mutexes.go)
 
+[Stateful Goroutines](https://github.com/annamuratov1987/gobyexample/blob/main/stateful_oroutines.go)
