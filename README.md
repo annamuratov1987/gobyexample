@@ -81,3 +81,5 @@
 [Sorting](https://github.com/annamuratov1987/gobyexample/blob/main/sorting.go)
 
 [Sorting by Functions](https://github.com/annamuratov1987/gobyexample/blob/main/sorting_by_functions.go)
+
+[Panic](https://github.com/annamuratov1987/gobyexample/blob/main/panic.go)
