@@ -79,3 +79,5 @@
 [Stateful Goroutines](https://github.com/annamuratov1987/gobyexample/blob/main/stateful_oroutines.go)
 
 [Sorting](https://github.com/annamuratov1987/gobyexample/blob/main/sorting.go)
+
+[Sorting by Functions](https://github.com/annamuratov1987/gobyexample/blob/main/sorting_by_functions.go)
