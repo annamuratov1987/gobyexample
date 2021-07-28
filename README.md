@@ -70,3 +70,4 @@
 
 [WaitGroups](https://github.com/annamuratov1987/gobyexample/blob/main/wait_groups.go)
 
+[Rate Limiting](https://github.com/annamuratov1987/gobyexample/blob/main/rate_limiting.go)
