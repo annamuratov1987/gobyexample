@@ -73,3 +73,5 @@
 [Rate Limiting](https://github.com/annamuratov1987/gobyexample/blob/main/rate_limiting.go)
 
 [Atomic Counters](https://github.com/annamuratov1987/gobyexample/blob/main/atomic_counters.go)
+
+[Mutexes](https://github.com/annamuratov1987/gobyexample/blob/main/mutexess.go)
