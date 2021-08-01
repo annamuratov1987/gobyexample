@@ -85,3 +85,5 @@
 [Panic](https://github.com/annamuratov1987/gobyexample/blob/main/panic.go)
 
 [Defer](https://github.com/annamuratov1987/gobyexample/blob/main/defer.go)
+
+[Collection Functions](https://github.com/annamuratov1987/gobyexample/blob/main/collection_functions.go)
