@@ -87,3 +87,5 @@
 [Defer](https://github.com/annamuratov1987/gobyexample/blob/main/defer.go)
 
 [Collection Functions](https://github.com/annamuratov1987/gobyexample/blob/main/collection_functions.go)
+
+[String Functions](https://github.com/annamuratov1987/gobyexample/blob/main/string_functions.go)
