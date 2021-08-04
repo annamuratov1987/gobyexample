@@ -91,3 +91,5 @@
 [String Functions](https://github.com/annamuratov1987/gobyexample/blob/main/string_functions.go)
 
 [String Formatting](https://github.com/annamuratov1987/gobyexample/blob/main/string_formatting.go)
+
+[Regular Expressions](https://github.com/annamuratov1987/gobyexample/blob/main/regular_expressions.go)
