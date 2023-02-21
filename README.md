@@ -58,3 +58,17 @@
 [Channel Directions](https://github.com/annamuratov1987/gobyexample/blob/main/examples/channel_directions.go)
 
 [Select](https://github.com/annamuratov1987/gobyexample/blob/main/examples/select.go)
+
+[Timeouts](https://github.com/annamuratov1987/gobyexample/blob/main/examples/timeouts.go)
+
+[Non-Blocking Channel Operations](https://github.com/annamuratov1987/gobyexample/blob/main/examples/non_blocking_channel_operations.go)
+
+[Closing Channels](https://github.com/annamuratov1987/gobyexample/blob/main/examples/closing_channels.go)
+
+[Range over Channels](https://github.com/annamuratov1987/gobyexample/blob/main/examples/range-over-channels.go)
+
+[Timers](https://github.com/annamuratov1987/gobyexample/blob/main/examples/timers.go)
+
+[Tickers](https://github.com/annamuratov1987/gobyexample/blob/main/examples/tickers.go)
+
+[Worker Pools](https://github.com/annamuratov1987/gobyexample/blob/main/examples/worker-pools.go)
