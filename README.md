@@ -94,3 +94,29 @@
 [Recover](https://github.com/annamuratov1987/gobyexample/blob/main/examples/recover.go)
 
 [String Functions](https://github.com/annamuratov1987/gobyexample/blob/main/examples/string-functions.go)
+
+[String Formatting](https://github.com/annamuratov1987/gobyexample/blob/main/examples/string-formatting.go)
+
+[Text Templates](https://github.com/annamuratov1987/gobyexample/blob/main/examples/text-templates.go)
+
+[Regular Expressions](https://github.com/annamuratov1987/gobyexample/blob/main/examples/regular-expressions.go)
+
+[JSON](https://github.com/annamuratov1987/gobyexample/blob/main/examples/json.go)
+
+[XML](https://github.com/annamuratov1987/gobyexample/blob/main/examples/xml.go)
+
+[Time](https://github.com/annamuratov1987/gobyexample/blob/main/examples/time.go)
+
+[Epoch](https://github.com/annamuratov1987/gobyexample/blob/main/examples/epoch.go)
+
+[Time Formatting / Parsing](https://github.com/annamuratov1987/gobyexample/blob/main/examples/time-formatting-parsing.go)
+
+[Random Numbers](https://github.com/annamuratov1987/gobyexample/blob/main/examples/random-numbers.go)
+
+[Number Parsing](https://github.com/annamuratov1987/gobyexample/blob/main/examples/number-parsing.go)
+
+[URL Parsing](https://github.com/annamuratov1987/gobyexample/blob/main/examples/url-parsing.go)
+
+[SHA256 Hashes](https://github.com/annamuratov1987/gobyexample/blob/main/examples/sha256-hashes.go)
+
+[Base64 Encoding](https://github.com/annamuratov1987/gobyexample/blob/main/examples/base64-encoding.go)
