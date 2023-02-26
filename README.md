@@ -120,3 +120,11 @@
 [SHA256 Hashes](https://github.com/annamuratov1987/gobyexample/blob/main/examples/sha256-hashes.go)
 
 [Base64 Encoding](https://github.com/annamuratov1987/gobyexample/blob/main/examples/base64-encoding.go)
+
+[Reading Files](https://github.com/annamuratov1987/gobyexample/blob/main/examples/reading-files.go)
+
+[Writing Files](https://github.com/annamuratov1987/gobyexample/blob/main/examples/writing-files.go)
+
+[Line Filters](https://github.com/annamuratov1987/gobyexample/blob/main/examples/line-filters.go)
+
+[File Paths](https://github.com/annamuratov1987/gobyexample/blob/main/examples/file-paths.go)
