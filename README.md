@@ -128,3 +128,19 @@
 [Line Filters](https://github.com/annamuratov1987/gobyexample/blob/main/examples/line-filters.go)
 
 [File Paths](https://github.com/annamuratov1987/gobyexample/blob/main/examples/file-paths.go)
+
+[Directories](https://github.com/annamuratov1987/gobyexample/blob/main/examples/directories.go)
+
+[Temporary Files and Directories](https://github.com/annamuratov1987/gobyexample/blob/main/examples/temporary-files-and-directories.go)
+
+[Embed Directive](https://github.com/annamuratov1987/gobyexample/blob/main/examples/embed-directive.go)
+
+[Testing and Benchmarking](https://github.com/annamuratov1987/gobyexample/blob/main/examples/testing-and-benchmarking/benchmarking_test.go)
+
+[Command-Line Arguments](https://github.com/annamuratov1987/gobyexample/blob/main/examples/command-line-arguments.go)
+
+[Command-Line Flags](https://github.com/annamuratov1987/gobyexample/blob/main/examples/command-line-flags.go)
+
+[Command-Line Subcommands](https://github.com/annamuratov1987/gobyexample/blob/main/examples/command-line-subcommands.go)
+
+[Environment Variables](https://github.com/annamuratov1987/gobyexample/blob/main/examples/environment-variables.go)
